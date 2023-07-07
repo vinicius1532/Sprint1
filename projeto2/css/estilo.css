@@ -1,0 +1,35 @@
+body {
+    /* Abrindo Body */
+    background-color: #000000;
+    color: #1fd20b;
+    /* mudar a fonte */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* mudar o tamanho */
+    font-size: 20px;
+    /* hexadecimal cor pra escolher a cor certa AJUDA */
+
+
+}
+
+/* fechando Body */
+
+/* Criando uma classe exemplo */
+.titulo {
+
+    font: size 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow
+}
+
+.sexta {
+    font-size: 15px;
+    color: blue
+}
+
+.madrugada { /* abrindo class madrugada */
+    text-align: center;/* onde fica o texto geralmente */
+    font-size: 20px;
+    color: yellowgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+} /* fechando class madrugada */
